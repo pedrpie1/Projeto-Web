@@ -59,7 +59,9 @@ input{
 }
 
 #msg{
+    width: 605px;
     height: 70px;
+    padding: 5px;
     text-align: start;
 }
 
